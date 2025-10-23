@@ -86,7 +86,6 @@ def main():
     print(f"Usciti {usciti} settori su {len(settori)}.\n")
 
     header = (
-        f"![logo](img/logo-2023.png)\n\n"
         f"# Risultati V Quadrimestre ASN 2023\n\n"
         f"Usciti {usciti} settori su {len(settori)}.\n\n"
         f"Credits: https://github.com/alessandropellegrini/risultati-asn."
