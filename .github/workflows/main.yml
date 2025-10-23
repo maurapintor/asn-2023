@@ -9,6 +9,9 @@ on:
       - main    # change if your default branch is different
   workflow_dispatch: # allow manual runs
 
+permissions:
+  contents: write
+
 jobs:
   check-asn:
     runs-on: ubuntu-latest
