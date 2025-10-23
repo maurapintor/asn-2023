@@ -1,4 +1,4 @@
-![logo](img/logo-2023.png)
+Credits: https://github.com/alessandropellegrini/risultati-asn.
 
 # Risultati V Quadrimestre ASN 2023
 
